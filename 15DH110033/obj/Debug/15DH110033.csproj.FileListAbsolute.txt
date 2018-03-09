@@ -1,0 +1,7 @@
+E:\Lập trình mạng\15DH110033\15DH110033\bin\Debug\15DH110033.exe.config
+E:\Lập trình mạng\15DH110033\15DH110033\bin\Debug\15DH110033.exe
+E:\Lập trình mạng\15DH110033\15DH110033\bin\Debug\15DH110033.pdb
+E:\Lập trình mạng\15DH110033\15DH110033\obj\Debug\15DH110033.csprojResolveAssemblyReference.cache
+E:\Lập trình mạng\15DH110033\15DH110033\obj\Debug\15DH110033.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\15DH110033\15DH110033\obj\Debug\15DH110033.exe
+E:\Lập trình mạng\15DH110033\15DH110033\obj\Debug\15DH110033.pdb
