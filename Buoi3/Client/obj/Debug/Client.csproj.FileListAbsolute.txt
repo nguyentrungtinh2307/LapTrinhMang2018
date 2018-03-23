@@ -1,0 +1,10 @@
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\bin\Debug\Client.exe.config
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\bin\Debug\Client.exe
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\bin\Debug\Client.pdb
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.Form1.resources
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.exe
+E:\Lập trình mạng\LapTrinhMang2018\Buoi3\Client\obj\Debug\Client.pdb
