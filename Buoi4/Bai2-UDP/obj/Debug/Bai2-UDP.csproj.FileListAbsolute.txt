@@ -1,0 +1,7 @@
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\bin\Debug\Bai2-UDP.exe.config
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\bin\Debug\Bai2-UDP.exe
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\bin\Debug\Bai2-UDP.pdb
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\obj\Debug\Bai2-UDP.csprojResolveAssemblyReference.cache
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\obj\Debug\Bai2-UDP.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\obj\Debug\Bai2-UDP.exe
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\Bai2-UDP\obj\Debug\Bai2-UDP.pdb

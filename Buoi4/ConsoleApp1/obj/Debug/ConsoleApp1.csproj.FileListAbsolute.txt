@@ -1,0 +1,6 @@
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Lập trình mạng\LapTrinhMang2018\Buoi4\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
